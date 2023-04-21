@@ -1,0 +1,41 @@
+.dashboard-card {
+    margin-top: 15px;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-bottom: 15px;
+    background-color: black;
+    
+  }
+  
+  .content{
+    text-align: center;
+    color: black;
+  }
+  
+  #cards1{
+    min-height: 100px;
+    background-color: yellow;
+    color: black;
+    height: 500px;
+  }
+
+  #pro{
+    max-width: 200px;
+    min-height: 200px;
+    
+  }
+
+#in{
+    margin: 0 3px;
+}
+
+#in2{
+    margin: 0 5px;
+    
+}
+
+h1{
+
+  font-weight: 900;
+  font-style: oblique;
+}
